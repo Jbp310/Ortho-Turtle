@@ -82,9 +82,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 0)
+			(drillshape 1)
 			(scaleselection 1)
-			(outputdirectory "C:/Users/Jackson/Documents/OrthoTurtle-PCB-files/")
+			(outputdirectory "")
 		)
 	)
 	(footprint "PCM_marbastlib-mx:STAB_MX_P_2.25u"
@@ -81192,32 +81192,6 @@
 		(layer "Edge.Cuts")
 		(uuid "c7c3844a-62c2-4b59-af01-f6a594a2b12f")
 	)
-	(gr_text "Created by Fastturtle25\nThank you to Hackclub and Keeb for making this possible"
-		(at 380.1823 136.5164 90)
-		(layer "F.SilkS")
-		(uuid "729ff345-bbb3-4239-877b-89bf98c6b34b")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.1)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "Ortho-Turtle"
-		(at 69.8456 94.4503 0)
-		(layer "F.SilkS")
-		(uuid "ed918fde-ea30-4120-a929-5588db1e9079")
-		(effects
-			(font
-				(size 25 25)
-				(thickness 5)
-				(bold yes)
-				(italic yes)
-			)
-			(justify left bottom)
-		)
-	)
 	(segment
 		(start 84.9259 39.0165)
 		(end 83.4985 40.4439)
@@ -87177,14 +87151,6 @@
 		(layer "B.Cu")
 		(net "Net-(D61-A)")
 		(uuid "e91eb833-59ec-4690-beb2-b5bf91d4625b")
-	)
-	(segment
-		(start 51.06 33.02)
-		(end 51.1122 33.02)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(D1-A)")
-		(uuid "6b34c23e-10cd-4c3f-9f9a-122c59038414")
 	)
 	(segment
 		(start 63.24 33.02)
