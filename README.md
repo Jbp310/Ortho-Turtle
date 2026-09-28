@@ -2,7 +2,7 @@
 
 Ortho-Turtle is an ortholinear keyboard designed by me,  Fastturtle, for Hackclub's KEEB project.
 
-If you want to make this yourself, just grab the files from Production-Ready_Files, and you should be good to go.
+**If you want to make this yourself, just grab the files from Production-Ready_Files, and you should be good to go.** 
 
 # Design Philosophies:
 
